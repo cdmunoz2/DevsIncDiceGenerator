@@ -2,6 +2,21 @@
     background-color: floralwhite;
 }
 
+#result6, #result10, #result20 {
+    font-size: 30px;
+    font-family: Arial, sans-serif;
+    border-style: solid;
+    margin: 10px;
+    padding: 10px;
+    border-color: #FFDAB9;
+    border-radius: 20px;
+}
+
+.resLabel {
+    font-size: 30px;
+    font-family: Arial, sans-serif;
+}
+
 .diceborder {
     margin: 30px;
     border: 2px solid #FFDAB9;
@@ -18,30 +33,19 @@ h1 {
     padding: 10px;
     text-align: center;
     border-radius: 20px;
-    margin: 25px;
+    margin: 30px;
     font-size: 35px;
-    font-family: sans-serif;
+    font-family: Arial, sans-serif;
 }
 
 h2 {
     padding: 0px;
     margin: 10px;
     font-size: 35px;
-    font-family: sans-serif;
+    font-family: Arial, sans-serif;
 }
 
 .button1 {
-    background-color: peachpuff;
-    border: none;
-    color: black;
-    font-size: 30px;
-    border-radius: 20px;
-    margin: 10px;
-    padding: 10px;
-    cursor: pointer;
-}
-
-.button2 {
     background-color: peachpuff;
     border: none;
     color: black;
