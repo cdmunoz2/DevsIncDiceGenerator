@@ -16,7 +16,7 @@ if (roll2 < 1 || roll2 > 10) {
 }
 
 //  Test 3: should return number between 1 and 20
-const roll3 = rollDice(10);
+const roll3 = rollDice(20);
 if (roll3 < 1 || roll3 > 20) {
     throw new Error ('Test 1 failed: d20 roll out of range, got ' + roll3);
 }
